@@ -1,5 +1,5 @@
 # Farmers-Crop-Management-System
-# PHP Mini Project
+# Mini Project
 
 ================================================================================
 
